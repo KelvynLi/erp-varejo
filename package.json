@@ -12,13 +12,7 @@
     "start": "node server/index.js",
     "db:setup": "node server/database/init.js"
   },
-  "keywords": [
-    "erp",
-    "varejo",
-    "comércio",
-    "ponto-de-venda",
-    "estoque"
-  ],
+  "keywords": ["erp", "varejo", "comércio", "ponto-de-venda", "estoque"],
   "author": "",
   "license": "MIT",
   "dependencies": {
