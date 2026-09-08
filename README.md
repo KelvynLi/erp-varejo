@@ -2,7 +2,7 @@
 
 Sistema ERP completo para comércio e varejo. Funciona em qualquer computador via navegador web.
 
-## 🎯 Funcionalidades
+## 🛍️ Funcionalidades
 
 - ✅ **Ponto de Venda (PDV)** - Registro rápido de vendas
 - ✅ **Gestão de Estoque** - Controle de produtos e quantidades
